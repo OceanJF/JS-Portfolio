@@ -34,8 +34,6 @@ Hello! I'm **Ocean Ford**, a dedicated IT enthusiast with a passion for crafting
 
 ## Projects
 
-Here are some of the projects I've worked on:
-
 For a complete list of projects, please get in contact.
 
 ## Contact
