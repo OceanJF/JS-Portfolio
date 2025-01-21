@@ -2,8 +2,6 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a passionate IT professional. Feel free to explore and get in touch if you have any questions or project ideas.
 
-![Portfolio Screenshot](images/portfolio-screenshot.png)
-
 ## Table of Contents
 
 - [About Me](#about-me)
@@ -38,11 +36,7 @@ Hello! I'm **Ocean Ford**, a dedicated IT enthusiast with a passion for crafting
 
 Here are some of the projects I've worked on:
 
-1. **Project 1**: Description of project 1.
-2. **Project 2**: Description of project 2.
-3. **Project 3**: Description of project 3.
-
-For a complete list of projects, please visit the [Projects](#projects) section on my portfolio website.
+For a complete list of projects, please get in contact.
 
 ## Contact
 
@@ -60,4 +54,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Thank you for visiting my portfolio! If you have any questions or would like to collaborate, feel free to reach out.
 
-![Footer Image](images/footer-image.png)
