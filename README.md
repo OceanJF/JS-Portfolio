@@ -36,11 +36,7 @@ Hello! I'm Ocean Ford, a dedicated IT enthusiast with a passion for crafting vis
 
 Here are some of the projects I've worked on:
 
-1. **Project 1**: Description of project 1.
-2. **Project 2**: Description of project 2.
-3. **Project 3**: Description of project 3.
-
-For a complete list of projects, please visit the [Projects](#projects) section on my portfolio website.
+For a complete list of projects, please get in contact.
 
 ## Contact
 
